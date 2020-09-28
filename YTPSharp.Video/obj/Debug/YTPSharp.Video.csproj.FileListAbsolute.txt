@@ -1,0 +1,6 @@
+D:\space\YTPSharp\YTPSharp.Video\bin\Debug\YTPSharp.Video.dll
+D:\space\YTPSharp\YTPSharp.Video\bin\Debug\YTPSharp.Video.pdb
+D:\space\YTPSharp\YTPSharp.Video\obj\Debug\YTPSharp.Video.csprojAssemblyReference.cache
+D:\space\YTPSharp\YTPSharp.Video\obj\Debug\YTPSharp.Video.csproj.CoreCompileInputs.cache
+D:\space\YTPSharp\YTPSharp.Video\obj\Debug\YTPSharp.Video.dll
+D:\space\YTPSharp\YTPSharp.Video\obj\Debug\YTPSharp.Video.pdb

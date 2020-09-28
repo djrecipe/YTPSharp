@@ -1,0 +1,5 @@
+D:\space\YTPSharp\YTPSharp.Media\bin\Debug\YTPSharp.Media.dll
+D:\space\YTPSharp\YTPSharp.Media\bin\Debug\YTPSharp.Media.pdb
+D:\space\YTPSharp\YTPSharp.Media\obj\Debug\YTPSharp.Media.csproj.CoreCompileInputs.cache
+D:\space\YTPSharp\YTPSharp.Media\obj\Debug\YTPSharp.Media.dll
+D:\space\YTPSharp\YTPSharp.Media\obj\Debug\YTPSharp.Media.pdb

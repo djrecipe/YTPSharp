@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTPSharp.UI", "YTPSharp.UI\YTPSharp.UI.csproj", "{62707953-BF6E-4A16-82BD-E09656C67760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTPSharp.Audio", "YTPSharp.Audio\YTPSharp.Audio.csproj", "{B5C7FFA3-E006-4DA4-8D8A-06E146497D50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTPSharp.Image", "YTPSharp.Video\YTPSharp.Image.csproj", "{616EE6A3-6E21-4930-85A1-D1FB46192026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTPSharp.Analysis", "YTPSharp.Analysis\YTPSharp.Analysis.csproj", "{12C04F91-3ECA-4DAC-BDCA-00C1CA4B5291}"
+	ProjectSection(ProjectDependencies) = postProject
+		{68EF85C4-67B5-4164-803A-9BF45C34A061} = {68EF85C4-67B5-4164-803A-9BF45C34A061}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTPSharp.Media", "YTPSharp.Media\YTPSharp.Media.csproj", "{68EF85C4-67B5-4164-803A-9BF45C34A061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62707953-BF6E-4A16-82BD-E09656C67760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62707953-BF6E-4A16-82BD-E09656C67760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62707953-BF6E-4A16-82BD-E09656C67760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62707953-BF6E-4A16-82BD-E09656C67760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5C7FFA3-E006-4DA4-8D8A-06E146497D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C7FFA3-E006-4DA4-8D8A-06E146497D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C7FFA3-E006-4DA4-8D8A-06E146497D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C7FFA3-E006-4DA4-8D8A-06E146497D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{616EE6A3-6E21-4930-85A1-D1FB46192026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616EE6A3-6E21-4930-85A1-D1FB46192026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616EE6A3-6E21-4930-85A1-D1FB46192026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616EE6A3-6E21-4930-85A1-D1FB46192026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C04F91-3ECA-4DAC-BDCA-00C1CA4B5291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C04F91-3ECA-4DAC-BDCA-00C1CA4B5291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C04F91-3ECA-4DAC-BDCA-00C1CA4B5291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C04F91-3ECA-4DAC-BDCA-00C1CA4B5291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68EF85C4-67B5-4164-803A-9BF45C34A061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EF85C4-67B5-4164-803A-9BF45C34A061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EF85C4-67B5-4164-803A-9BF45C34A061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EF85C4-67B5-4164-803A-9BF45C34A061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13C1E721-A11F-4B3C-B658-57E82028E31E}
+	EndGlobalSection
+EndGlobal

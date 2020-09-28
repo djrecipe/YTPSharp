@@ -1,0 +1,9 @@
+D:\space\YTPSharp\YTPSharp.Analysis\obj\Debug\YTPSharp.Analysis.csproj.CoreCompileInputs.cache
+D:\space\YTPSharp\YTPSharp.Analysis\bin\Debug\YTPSharp.Analysis.dll
+D:\space\YTPSharp\YTPSharp.Analysis\bin\Debug\YTPSharp.Analysis.pdb
+D:\space\YTPSharp\YTPSharp.Analysis\bin\Debug\YTPSharp.Media.dll
+D:\space\YTPSharp\YTPSharp.Analysis\bin\Debug\YTPSharp.Media.pdb
+D:\space\YTPSharp\YTPSharp.Analysis\obj\Debug\YTPSharp.Analysis.csprojAssemblyReference.cache
+D:\space\YTPSharp\YTPSharp.Analysis\obj\Debug\YTPSharp.Analysis.csproj.CopyComplete
+D:\space\YTPSharp\YTPSharp.Analysis\obj\Debug\YTPSharp.Analysis.dll
+D:\space\YTPSharp\YTPSharp.Analysis\obj\Debug\YTPSharp.Analysis.pdb
