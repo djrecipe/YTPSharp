@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTPSharp.UI", "YTPSharp.UI\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTPSharp.Audio", "YTPSharp.Audio\YTPSharp.Audio.csproj", "{B5C7FFA3-E006-4DA4-8D8A-06E146497D50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTPSharp.Image", "YTPSharp.Video\YTPSharp.Image.csproj", "{616EE6A3-6E21-4930-85A1-D1FB46192026}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTPSharp.Image", "YTPSharp.Image\YTPSharp.Image.csproj", "{616EE6A3-6E21-4930-85A1-D1FB46192026}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTPSharp.Analysis", "YTPSharp.Analysis\YTPSharp.Analysis.csproj", "{12C04F91-3ECA-4DAC-BDCA-00C1CA4B5291}"
 	ProjectSection(ProjectDependencies) = postProject

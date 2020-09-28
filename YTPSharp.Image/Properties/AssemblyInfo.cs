@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("YTPSharpAudio")]
+[assembly: AssemblyTitle("YTPSharp.Video")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("YTPSharpAudio")]
+[assembly: AssemblyProduct("YTPSharp.Video")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b5c7ffa3-e006-4da4-8d8a-06e146497d50")]
+[assembly: Guid("616ee6a3-6e21-4930-85a1-d1fb46192026")]
 
 // Version information for an assembly consists of the following four values:
 //

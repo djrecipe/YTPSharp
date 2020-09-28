@@ -1,0 +1,15 @@
+D:\space\YTPSharp\YTPSharpAudio\bin\Debug\YTPSharp.Audio.dll
+D:\space\YTPSharp\YTPSharpAudio\bin\Debug\YTPSharp.Audio.pdb
+D:\space\YTPSharp\YTPSharpAudio\obj\Debug\YTPSharp.Audio.csprojAssemblyReference.cache
+D:\space\YTPSharp\YTPSharpAudio\obj\Debug\YTPSharp.Audio.csproj.CoreCompileInputs.cache
+D:\space\YTPSharp\YTPSharpAudio\obj\Debug\YTPSharp.Audio.dll
+D:\space\YTPSharp\YTPSharpAudio\obj\Debug\YTPSharp.Audio.pdb
+D:\space\YTPSharp\YTPSharp.Audio\bin\Debug\YTPSharp.Audio.dll
+D:\space\YTPSharp\YTPSharp.Audio\bin\Debug\YTPSharp.Audio.pdb
+D:\space\YTPSharp\YTPSharp.Audio\bin\Debug\YTPSharp.Media.dll
+D:\space\YTPSharp\YTPSharp.Audio\bin\Debug\YTPSharp.Media.pdb
+D:\space\YTPSharp\YTPSharp.Audio\obj\Debug\YTPSharp.Audio.csprojAssemblyReference.cache
+D:\space\YTPSharp\YTPSharp.Audio\obj\Debug\YTPSharp.Audio.csproj.CoreCompileInputs.cache
+D:\space\YTPSharp\YTPSharp.Audio\obj\Debug\YTPSharp.Audio.csproj.CopyComplete
+D:\space\YTPSharp\YTPSharp.Audio\obj\Debug\YTPSharp.Audio.dll
+D:\space\YTPSharp\YTPSharp.Audio\obj\Debug\YTPSharp.Audio.pdb
